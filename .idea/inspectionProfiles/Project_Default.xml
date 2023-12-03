@@ -1,0 +1,17 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="str.alias" />
+          <option value="tuple.over" />
+          <option value="int.alias" />
+          <option value="tuple.show" />
+          <option value="tuple.groupBy" />
+          <option value="tuple.orderBy" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
